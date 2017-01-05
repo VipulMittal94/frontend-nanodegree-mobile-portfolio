@@ -8,3 +8,16 @@ or
 How to use:
 -Open the folder named frontend-nanodegree-mobile-portfolio.
 -Open file index.html.
+
+In index.html 
+
+Made style.css inline and add print media print.css.
+size of the image is optimized.
+Async script is moved to last.
+
+for Pizza.html
+
+inline Css.
+update js and minified.
+
+
